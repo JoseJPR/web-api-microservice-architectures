@@ -14,6 +14,7 @@
 
 Basic concepts you need to know:
 * [📖 Los 5 principios SOLID](https://latteandcode.medium.com/los-5-principios-solid-68d697984abd)
+* [📖 Inyección de dependencias en componentes](https://softwarecrafters.io/typescript/inyeccion-de-dependencias-componentes)
 * [📖 Inyección de dependencias en Node.js con InversifyJS & TypeScript](https://es.slideshare.net/RemoJansen/inyeccion-de-dependencias-en-nodejs-con-inversifyjs-typescript)
 
 The first thing you should do is watch the following video:
